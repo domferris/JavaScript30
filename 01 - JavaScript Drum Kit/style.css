@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(https://i.pinimg.com/originals/22/40/65/224065952072cdd9d6d94511aceeeec8.jpg) bottom center;
   background-size: cover;
 }
 
